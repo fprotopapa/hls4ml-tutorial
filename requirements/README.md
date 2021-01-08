@@ -23,6 +23,12 @@ sudo systemctl start docker
 ```console
 python3 -m pip install notebook
 ```
+
+Optional
+```
+python3 -m pip install RISE
+
+```
 Add Kernel
 ```console
 ipython kernel install --user --name=.venv_hls4ml
