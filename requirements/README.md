@@ -18,6 +18,20 @@ sudo apt install docker.io
 sudo systemctl start docker
 ```
 
+## Jupyter Notebook
+
+```console
+python3 -m pip install notebook
+```
+Add Kernel
+```console
+ipython kernel install --user --name=.venv_hls4ml
+```
+Start session
+```console
+jupyter notebook
+```
+
 ## Git
 
 ```console
