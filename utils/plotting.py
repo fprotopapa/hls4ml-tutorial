@@ -1,3 +1,7 @@
+"""
+source: https://github.com/fastmachinelearning/hls4ml-tutorial
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc
