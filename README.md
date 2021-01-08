@@ -1,6 +1,6 @@
 # hls4ml-tutorial
 
-## Getting started
+## Getting started (is also first part of the tutorial, can be skipped afterwards)
 
 ```console
 sudo apt install python3 python3-venv
@@ -20,6 +20,10 @@ ipython kernel install --user --name=.venv_hls4ml
 
 jupyter notebook
 ```
+
+Open Tutorial_HLS4ML.ipynb and have fun :)
+
+
 
 Other requirements:
 
