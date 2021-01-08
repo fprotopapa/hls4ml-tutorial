@@ -1,6 +1,8 @@
 '''
 Created on 7 Apr 2017
 @author: jkiesele
+
+Source: https://github.com/fastmachinelearning/hls4ml-tutorial
 '''
 from __future__ import print_function
 
